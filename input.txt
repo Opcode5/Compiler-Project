@@ -1,0 +1,83 @@
+my program ()
+lb
+
+	integer aa=5,bb=2;
+
+	integer value; 
+
+	value=aa plus bb; 
+
+	print(value); 
+
+	for_loop(1,10,3)
+	lb
+		value=value minus 2;		
+	rb
+
+	value=50;
+
+	while_loop(value less_than 80)
+	lb
+		value = value plus 5;	
+	rb
+	
+	print(value); 
+
+	comment: this is a single line comment
+
+	comment
+	lb
+		this is a multiple
+		line 
+		comment
+	rb
+
+	binary(15);
+
+	log(434);
+
+	if(aa greater_than  bb)
+	lb
+		aa=aa mul 3; 
+	rb
+	else
+	lb
+		aa=aa div bb;
+	rb
+
+	print(aa); 
+
+	factorial(bb);
+
+	check_prime(aa);
+
+	show_gcd(aa,bb);
+	
+	show_lcm(aa,3);
+
+	switch
+	lb
+		case (100 less_than 10): aa=aa plus 100;
+
+		case (1 greater_than 10): aa=aa minus 200; 
+
+		case (aa greater_than bb): aa=aa mul 2;
+
+		default:  aa=aa mul 3; 
+	rb
+
+	print(aa);
+
+	bigmod(2,4,5);
+
+	log10(100);
+
+	sin(30);
+
+	cos(60);
+
+	tan(45);
+	
+	get_remainder(11%3);	
+	complete();
+rb

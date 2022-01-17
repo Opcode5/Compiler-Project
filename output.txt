@@ -1,0 +1,36 @@
+Value of the variable: 5	
+Value of the variable: 2	
+Value of the variable: 7	
+Print Expression 7
+
+loop:
+i= 1 and value inside loop is 5
+i= 4 and value inside loop is 3
+i= 7 and value inside loop is 1
+Value of the variable: 50	
+
+value inside while loop = 55
+value inside while loop = 60
+value inside while loop = 65
+value inside while loop = 70
+value inside while loop = 75
+value inside while loop = 80
+Print Expression 80
+single line comment
+multiple line comment
+binary expression of 15  is 1111
+Value of Log(434) is 6.073045
+value of expression in IF: 15
+Print Expression 15
+value of 2! is 2
+15 is not a prime number
+gcd of 15 and 2 is 1
+lcm of 15 and 3 is 15
+Print Expression 30
+Bigmod of 2 ^ 4 mod 5 is = 1
+Value of Log10(100) is 2.000000
+Value of Sin(30) is 0.500001
+Value of Cos(60) is 0.499998
+Value of Tan(45) is 1.000004
+value of (11 % 3) is 2
+successful compilation!!!
